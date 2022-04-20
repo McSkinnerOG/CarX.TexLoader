@@ -1,0 +1,2 @@
+D:\Dev\CarX-Mods\TexLoader_V2\VSideLoader\obj\Debug\VSideLoader.csproj.AssemblyReference.cache
+D:\Dev\CarX-Mods\TexLoader_V2\VSideLoader\obj\Debug\VSideLoader.csproj.CoreCompileInputs.cache
